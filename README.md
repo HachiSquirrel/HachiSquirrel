@@ -9,6 +9,6 @@
 ### Habilidades / Skills
 
 ![Python](https://img.shields.io/badge/Python-4B0082?style=for-the-badge&logo=python&logoColor=white)
-[![Amazon Web Services](https://img.shields.io/badge/Amazon_AWS-000?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-[![Git](https://img.shields.io/badge/Git-4B0082?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/)
+![Amazon Web Services](https://img.shields.io/badge/Amazon_AWS-000?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-4B0082?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
