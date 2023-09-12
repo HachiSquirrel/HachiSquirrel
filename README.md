@@ -28,12 +28,11 @@
 ![Notion](https://img.shields.io/badge/Notion-4B0082?style=for-the-badge&logo=notion&logoColor=white)
 
 
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HachiSquirrel&layout=compact&bg_color=000&border_color=4B0082&title_color=FFFFFF&text_color=FFF)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=HachiSquirrel&theme=midnight-purple&background=000&border=4B0082&dates=FFF)](https://git.io/streak-stats)
 
 
 
-
-
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HachiSquirrel&bg_color=000&border_color=4B0082&title_color=FF8000&text_color=FFF)
 
 
