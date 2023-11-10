@@ -1,5 +1,5 @@
 # **Luisa Cassini**
-## ***Trilhando meu caminho em análise de dados***
+## ***Desenvolvedora front-end / Front-end developer***
 
 
 
@@ -9,6 +9,10 @@
 
 
 ### Habilidades / Skills
+
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-480082?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=white)
 
 ![Python](https://img.shields.io/badge/Python-4B0082?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=white)
