@@ -1,5 +1,5 @@
 # **Luisa Cassini**
-## ***Desenvolvedora front-end / Front-end developer***
+## ***Analista de dados / Data Analyst***
 
 
 
